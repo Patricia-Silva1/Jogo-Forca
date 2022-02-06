@@ -1,2 +1,3 @@
 # Jogo-Forca
- HTML ,CSS,JavaScrpt
+ [Acesse aqui](https://patricia-jogo-forca.netlify.app/)
+
